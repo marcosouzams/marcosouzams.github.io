@@ -13,19 +13,15 @@ fi
 # Copy .nojekyll to out directory
 cp .nojekyll out/
 
-# Create .gitignore in out directory to keep necessary files
-echo "node_modules" > out/.gitignore
+# Copy all files from out to root (for GitHub Pages)
+echo "Copying files to root for GitHub Pages..."
+cp -r out/* .
 
-echo "Build completed! Files are in the 'out' directory."
+echo "Build completed and files copied to root!"
 echo ""
-echo "Now follow these steps:"
-echo "1. Go to your GitHub repository settings"
-echo "2. Navigate to Pages section"
-echo "3. Under 'Build and deployment', select 'Deploy from a branch'"
-echo "4. Select 'main' branch and '/out' folder"
-echo "5. Save the settings"
-echo ""
-echo "Then commit and push your changes:"
+echo "Now commit and push your changes:"
 echo "  git add ."
-echo "  git commit -m 'Setup GitHub Pages deployment'"
+echo "  git commit -m 'Update site'"
 echo "  git push origin main"
+echo ""
+echo "Your site will be available at: https://marcosouzams.github.io"
