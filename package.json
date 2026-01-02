@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "export": "next build"
+    "lint": "eslint"
   },
   "dependencies": {
     "i18next": "^25.7.3",
