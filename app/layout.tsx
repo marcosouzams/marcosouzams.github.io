@@ -7,14 +7,6 @@ import I18nProvider from "@/components/I18nProvider";
 export const metadata: Metadata = {
   title: "Marco Antônio - Fullstack Developer",
   description: "Portfólio de Marco Antônio - Desenvolvedor Fullstack especializado em React, Next.js, Node.js e mais",
-  icons: {
-    icon: [
-      { url: '/favicon.png' },
-      { url: '/favicon.ico' },
-    ],
-    shortcut: '/favicon.png',
-    apple: '/favicon.png',
-  },
 };
 
 export default function RootLayout({
