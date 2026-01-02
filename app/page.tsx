@@ -85,7 +85,7 @@ export default function Home() {
 
           {/* Right - Image Card */}
           <div className="flex justify-center md:justify-end animate-fade-in">
-            <div className="bg-white rounded-3xl overflow-hidden shadow-2xl max-w-sm">
+            <div className="bg-white rounded-3xl overflow-hidden shadow-2xl w-full max-w-md">
               {/* Image */}
               <div className="p-6">
                 <div className="aspect-square overflow-hidden rounded-2xl relative">

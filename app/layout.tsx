@@ -8,7 +8,12 @@ export const metadata: Metadata = {
   title: "Marco Antônio - Fullstack Developer",
   description: "Portfólio de Marco Antônio - Desenvolvedor Fullstack especializado em React, Next.js, Node.js e mais",
   icons: {
-    icon: '/favicon.png',
+    icon: [
+      { url: '/favicon.png' },
+      { url: '/favicon.ico' },
+    ],
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
   },
 };
 
