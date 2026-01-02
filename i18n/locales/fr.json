@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "tag": "DÉVELOPPEUR FULL STACK",
+    "name": "marco dev",
+    "subtitle": "Créer des expériences numériques où",
+    "subtitleHighlight": "le design rencontre le code",
+    "experience": "2 ans d'expérience",
+    "cardLocation": "Localisation",
+    "cardLocationValue": "BR",
+    "cardExperience": "Expérience",
+    "cardExperienceValue": "+2 ans",
+    "cardFocus": "Focus",
+    "cardFocusValue": "Full Stack"
+  },
+  "roles": {
+    "fullstack": "Full Stack Dev",
+    "architecture": "Architecture",
+    "design": "Design UI/UX",
+    "innovation": "Innovation"
+  },
+  "about": {
+    "title": "À propos",
+    "p1": "Développeur Full Stack avec de l'expérience dans la création",
+    "p1Highlight": "d'applications web modernes et évolutives",
+    "p1End": ". Je participe activement à toutes les étapes du développement, de la modélisation au déploiement.",
+    "p2": "Je travaille principalement avec",
+    "p2Highlight": "JavaScript, TypeScript et Node.js",
+    "p2End": ", avec une expérience récente dans des projets à grande échelle dans l'écosystème Django.",
+    "p3": "J'ai une solide expérience en",
+    "p3Highlight": "Design UI/UX",
+    "p3End": ", avec notamment la direction du rebranding de l'une des plus grandes plateformes de planification au Brésil.",
+    "highlightTitle": "Projet Phare",
+    "highlightText": "J'ai conçu et mis en œuvre un",
+    "highlightTextBold": "assistant virtuel",
+    "highlightTextEnd": "pour une plateforme d'apprentissage en ligne, utilisant Django, HTMX, Alpine.js et Tailwind CSS. Une expérience fluide et orientée utilisateur."
+  },
+  "skills": {
+    "title": "Stack"
+  },
+  "cta": {
+    "title": "Créons quelque chose",
+    "titleHighlight": "d'incroyable",
+    "description": "Je cherche à créer des solutions bien structurées, évolutives et faciles à faire évoluer, en équilibrant vision technique et meilleures pratiques de développement.",
+    "projects": "Voir les Projets",
+    "contact": "Me Contacter"
+  },
+  "aboutPage": {
+    "greeting": "Salut! Je suis Marco.",
+    "intro": "Développeur Full Stack avec 2 ans d'expérience en développement logiciel, travaillant sur la construction d'applications web modernes et évolutives. Je participe activement à toutes les étapes du cycle de développement, de la modélisation des données et de la définition de l'architecture au déploiement et à la maintenance, en mettant toujours l'accent sur la qualité, les performances et l'expérience utilisateur.",
+    "tech": "Je travaille principalement avec JavaScript, TypeScript, Node.js et Next.js, et au cours de la dernière année, j'ai travaillé sur des projets à grande échelle dans l'écosystème Django, développant des solutions robustes en back-end et des interfaces efficaces en front-end.",
+    "design": "J'ai une solide expérience en Design UI/UX, travaillant de la conception visuelle et structurelle à l'implémentation dans des frameworks front-end. L'une de mes principales réalisations dans ce domaine a été de diriger le rebranding de l'une des plus grandes plateformes de planification du Brésil, combinant stratégie de design, utilisabilité et exécution technique.",
+    "designEnthusiast": "Je suis également passionné de design, explorant toujours l'intersection entre esthétique, fonctionnalité et innovation.",
+    "project": "Parmi mes projets phares figure l'idéalisation et la mise en œuvre d'un assistant virtuel pour une plateforme d'apprentissage en ligne, développé avec Django en back-end et HTMX, Alpine.js et Tailwind CSS en front-end, contribuant à une expérience plus fluide, interactive et orientée utilisateur.",
+    "approach": "Je cherche constamment à créer des solutions bien structurées, évolutives et faciles à faire évoluer, en équilibrant vision technique, compréhension du business et meilleures pratiques de développement.",
+    "techTitle": "Principales Technologies",
+    "hardSkillsTitle": "Hard Skills",
+    "softSkillsTitle": "Soft Skills",
+    "workTitle": "Domaines d'Expertise",
+    "workAreas": "Full Stack • Architecture d'applications • UI/UX • Développement web • Deploy et maintenance",
+    "hobbiesTitle": "Au-delà du Code",
+    "hobbiesText": "Je suis Directeur Créatif, Directeur Exécutif, Producteur Culturel et DJ au",
+    "collectiveName": "coletivo abacaxi",
+    "hobbiesDescription": ", un collectif multi-artistique underground (le plus grand du nord de Minas Gerais) qui vise à explorer la culture urbaine, le droit à la ville et à créer un environnement sûr pour les minorités marginalisées.",
+    "softSkills": {
+      "timeManagement": "Gestion du Temps et des Priorités",
+      "collaboration": "Collaboration et Travail d'Équipe",
+      "adaptability": "Adaptabilité",
+      "problemSolving": "Résolution de Problèmes",
+      "empathy": "Empathie",
+      "autonomy": "Autonomie",
+      "communication": "Communication Claire"
+    }
+  },
+  "contactPage": {
+    "greeting": "Discutons.",
+    "intro": "Je suis toujours ouvert à discuter de nouveaux projets, d'idées créatives ou d'opportunités de faire partie de votre vision. N'hésitez pas à me contacter via l'un des canaux ci-dessous.",
+    "email": "Email",
+    "emailValue": "marcoantoniosz@outlook.com",
+    "phone": "Téléphone",
+    "phoneValue": "+55 38 99876-1660",
+    "social": "Réseaux Sociaux",
+    "availability": "Disponibilité",
+    "availabilityStatus": "Disponible pour des projets",
+    "availabilityText": "Actuellement ouvert aux missions freelance et opportunités à temps plein.",
+    "response": "Temps de Réponse",
+    "responseText": "Je réponds généralement sous 24-48 heures.",
+    "location": "Basé à",
+    "locationValue": "Minas Gerais, Brésil",
+    "sendMessage": "Envoyer un Message",
+    "formName": "Nom",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSend": "Envoyer le Message"
+  }
+}

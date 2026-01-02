@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Doppio One';
+  src: url('/fonts/DoppioOne-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    font-family: 'Doppio One', sans-serif !important;
+  }
+  
+  body {
+    font-family: 'Doppio One', sans-serif !important;
+  }
+}

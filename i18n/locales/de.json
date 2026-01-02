@@ -1,0 +1,96 @@
+{
+  "hero": {
+    "tag": "FULL STACK ENTWICKLER",
+    "name": "marco dev",
+    "subtitle": "Digitale Erlebnisse schaffen, wo",
+    "subtitleHighlight": "Design auf Code trifft",
+    "experience": "2 Jahre Erfahrung",
+    "cardLocation": "Standort",
+    "cardLocationValue": "BR",
+    "cardExperience": "Erfahrung",
+    "cardExperienceValue": "+2 Jahre",
+    "cardFocus": "Fokus",
+    "cardFocusValue": "Full Stack"
+  },
+  "roles": {
+    "fullstack": "Full Stack Dev",
+    "architecture": "Architektur",
+    "design": "UI/UX Design",
+    "innovation": "Innovation"
+  },
+  "about": {
+    "title": "Über",
+    "p1": "Full Stack Entwickler mit Erfahrung in der Erstellung",
+    "p1Highlight": "moderner und skalierbarer Webanwendungen",
+    "p1End": ". Ich nehme aktiv an allen Entwicklungsphasen teil, von der Modellierung bis zur Bereitstellung.",
+    "p2": "Ich arbeite hauptsächlich mit",
+    "p2Highlight": "JavaScript, TypeScript und Node.js",
+    "p2End": ", mit aktueller Erfahrung in großen Projekten im Django-Ökosystem.",
+    "p3": "Ich habe fundierte Erfahrung im",
+    "p3Highlight": "UI/UX Design",
+    "p3End": ", mit Schwerpunkt auf der Leitung des Rebrandings einer der größten Planungsplattformen Brasiliens.",
+    "highlightTitle": "Hervorgehobenes Projekt",
+    "highlightText": "Ich habe einen",
+    "highlightTextBold": "virtuellen Assistenten",
+    "highlightTextEnd": "für eine Online-Lernplattform entworfen und implementiert, mit Django, HTMX, Alpine.js und Tailwind CSS. Eine fließende, benutzerorientierte Erfahrung."
+  },
+  "skills": {
+    "title": "Stack"
+  },
+  "cta": {
+    "title": "Lass uns etwas",
+    "titleHighlight": "Erstaunliches",
+    "titleEnd": "schaffen",
+    "description": "Ich strebe danach, gut strukturierte, skalierbare und leicht weiterzuentwickelnde Lösungen zu schaffen, die technische Vision und bewährte Entwicklungspraktiken ausbalancieren.",
+    "projects": "Projekte Ansehen",
+    "contact": "Kontakt Aufnehmen"
+  },
+  "aboutPage": {
+    "greeting": "Hallo! Ich bin Marco.",
+    "intro": "Full Stack Entwickler mit 2 Jahren Erfahrung in der Softwareentwicklung, der an der Erstellung moderner und skalierbarer Webanwendungen arbeitet. Ich nehme aktiv an allen Phasen des Entwicklungszyklus teil, von der Datenmodellierung und Architekturdefinition bis zur Bereitstellung und Wartung, immer mit Fokus auf Qualität, Leistung und Benutzererfahrung.",
+    "tech": "Ich arbeite hauptsächlich mit JavaScript, TypeScript, Node.js und Next.js, und im letzten Jahr habe ich an großen Projekten im Django-Ökosystem gearbeitet, robuste Back-End-Lösungen und effiziente Front-End-Schnittstellen entwickelt.",
+    "design": "Ich habe fundierte Erfahrung im UI/UX Design, von der visuellen und strukturellen Konzeption bis zur Implementierung in Front-End-Frameworks. Eine meiner Hauptleistungen in diesem Bereich war die Leitung des Rebrandings einer der größten Planungsplattformen Brasiliens, die Designstrategie, Benutzerfreundlichkeit und technische Umsetzung kombiniert.",
+    "designEnthusiast": "Ich bin auch ein Design-Enthusiast und erkunde immer die Schnittstelle zwischen Ästhetik, Funktionalität und Innovation.",
+    "project": "Zu meinen herausragenden Projekten gehört die Idealisierung und Implementierung eines virtuellen Assistenten für eine Online-Lernplattform, entwickelt mit Django im Back-End und HTMX, Alpine.js und Tailwind CSS im Front-End, was zu einer flüssigeren, interaktiveren und benutzerorientierten Erfahrung beiträgt.",
+    "approach": "Ich strebe ständig danach, gut strukturierte, skalierbare und leicht weiterzuentwickelnde Lösungen zu schaffen, die technische Vision, Geschäftsverständnis und bewährte Entwicklungspraktiken ausbalancieren.",
+    "techTitle": "Haupttechnologien",
+    "hardSkillsTitle": "Hard Skills",
+    "softSkillsTitle": "Soft Skills",
+    "workTitle": "Arbeitsbereiche",
+    "workAreas": "Full Stack • Anwendungsarchitektur • UI/UX • Webentwicklung • Deploy und Wartung",
+    "hobbiesTitle": "Jenseits des Codes",
+    "hobbiesText": "Ich bin Kreativdirektor, Geschäftsführer, Kulturproduzent und DJ beim",
+    "collectiveName": "coletivo abacaxi",
+    "hobbiesDescription": ", einem Underground-Multi-Art-Kollektiv (das größte im Norden von Minas Gerais), das darauf abzielt, urbane Kultur, das Recht auf Stadt zu erkunden und eine sichere Umgebung für marginalisierte Minderheiten zu schaffen.",
+    "softSkills": {
+      "timeManagement": "Zeit- und Prioritätsmanagement",
+      "collaboration": "Zusammenarbeit und Teamarbeit",
+      "adaptability": "Anpassungsfähigkeit",
+      "problemSolving": "Problemlösung",
+      "empathy": "Empathie",
+      "autonomy": "Autonomie",
+      "communication": "Klare Kommunikation"
+    }
+  },
+  "contactPage": {
+    "greeting": "Lass uns reden.",
+    "intro": "Ich bin immer offen, über neue Projekte, kreative Ideen oder Möglichkeiten zu diskutieren, Teil Ihrer Vision zu sein. Kontaktieren Sie mich gerne über einen der unten stehenden Kanäle.",
+    "email": "Email",
+    "emailValue": "marcoantoniosz@outlook.com",
+    "phone": "Telefon",
+    "phoneValue": "+55 38 99876-1660",
+    "social": "Soziale Medien",
+    "availability": "Verfügbarkeit",
+    "availabilityStatus": "Verfügbar für Projekte",
+    "availabilityText": "Derzeit offen für Freelance-Arbeiten und Vollzeitangebote.",
+    "response": "Antwortzeit",
+    "responseText": "Ich antworte normalerweise innerhalb von 24-48 Stunden.",
+    "location": "Ansässig in",
+    "locationValue": "Minas Gerais, Brasilien",
+    "sendMessage": "Nachricht Senden",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Nachricht",
+    "formSend": "Nachricht Senden"
+  }
+}

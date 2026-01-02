@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "tag": "FULL STACK DEVELOPER",
+    "name": "marco dev",
+    "subtitle": "Creating digital experiences where",
+    "subtitleHighlight": "design meets code",
+    "experience": "2 years of experience",
+    "cardLocation": "Location",
+    "cardLocationValue": "BR",
+    "cardExperience": "Experience",
+    "cardExperienceValue": "2+ years",
+    "cardFocus": "Focus",
+    "cardFocusValue": "Full Stack"
+  },
+  "roles": {
+    "fullstack": "Full Stack Dev",
+    "architecture": "Architecture",
+    "design": "UI/UX Design",
+    "innovation": "Innovation"
+  },
+  "about": {
+    "title": "About",
+    "p1": "Full Stack Developer with experience in creating",
+    "p1Highlight": "modern and scalable web applications",
+    "p1End": ". I actively participate in all stages of development, from modeling to deployment.",
+    "p2": "I mainly work with",
+    "p2Highlight": "JavaScript, TypeScript and Node.js",
+    "p2End": ", with recent experience in large-scale projects in the Django ecosystem.",
+    "p3": "I have solid experience in",
+    "p3Highlight": "UI/UX Design",
+    "p3End": ", with a highlight for leading the rebranding of one of Brazil's largest scheduling platforms.",
+    "highlightTitle": "Featured Project",
+    "highlightText": "I designed and implemented a",
+    "highlightTextBold": "virtual assistant",
+    "highlightTextEnd": "for an online learning platform, using Django, HTMX, Alpine.js and Tailwind CSS. A fluid, user-oriented experience."
+  },
+  "skills": {
+    "title": "Stack"
+  },
+  "cta": {
+    "title": "Let's create something",
+    "titleHighlight": "amazing",
+    "description": "I seek to create well-structured, scalable and easy-to-evolve solutions, balancing technical vision and development best practices.",
+    "projects": "View Projects",
+    "contact": "Get in Touch"
+  },
+  "aboutPage": {
+    "greeting": "Hi! I'm Marco.",
+    "intro": "Full Stack Developer with 2 years of experience in software development, working on building modern and scalable web applications. I actively participate in all stages of the development cycle, from data modeling and architecture definition to deployment and maintenance, always focusing on quality, performance, and user experience.",
+    "tech": "I work mainly with JavaScript, TypeScript, Node.js, and Next.js, and in the last year I worked on large-scale projects in the Django ecosystem, developing robust back-end solutions and efficient front-end interfaces.",
+    "design": "I have solid experience in UI/UX Design, working from visual and structural conception to implementation in front-end frameworks. One of my main achievements in this area was leading the rebranding of one of Brazil's largest scheduling platforms, combining design strategy, usability, and technical execution.",
+    "designEnthusiast": "I'm also a design enthusiast, always exploring the intersection between aesthetics, functionality, and innovation.",
+    "project": "Among my featured projects is the idealization and implementation of a virtual assistant for an online learning platform, developed with Django on the back-end and HTMX, Alpine.js, and Tailwind CSS on the front-end, contributing to a more fluid, interactive, and user-oriented experience.",
+    "approach": "I constantly seek to create well-structured, scalable, and easy-to-evolve solutions, balancing technical vision, business understanding, and development best practices.",
+    "techTitle": "Main Technologies",
+    "hardSkillsTitle": "Hard Skills",
+    "softSkillsTitle": "Soft Skills",
+    "workTitle": "Focus Areas",
+    "workAreas": "Full Stack • Application Architecture • UI/UX • Web Development • Deploy & Maintenance",
+    "hobbiesTitle": "Beyond Code",
+    "hobbiesText": "I'm Creative Director, Executive Director, Cultural Producer, and DJ at",
+    "collectiveName": "coletivo abacaxi",
+    "hobbiesDescription": ", an underground multi-artistic collective (the largest in northern Minas Gerais) that aims to explore urban culture, the right to the city, and create a safe environment for marginalized minorities.",
+    "softSkills": {
+      "timeManagement": "Time & Priority Management",
+      "collaboration": "Collaboration & Teamwork",
+      "adaptability": "Adaptability",
+      "problemSolving": "Problem Solving",
+      "empathy": "Empathy",
+      "autonomy": "Autonomy",
+      "communication": "Clear Communication"
+    }
+  },
+  "contactPage": {
+    "greeting": "Let's talk.",
+    "intro": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the channels below.",
+    "email": "Email",
+    "emailValue": "marcoantoniosz@outlook.com",
+    "phone": "Phone",
+    "phoneValue": "+55 38 99876-1660",
+    "social": "Social Media",
+    "availability": "Availability",
+    "availabilityStatus": "Available for projects",
+    "availabilityText": "Currently open for freelance work and full-time opportunities.",
+    "response": "Response Time",
+    "responseText": "I usually respond within 24-48 hours.",
+    "location": "Based in",
+    "locationValue": "Minas Gerais, Brazil",
+    "sendMessage": "Send a Message",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSend": "Send Message"
+  }
+}

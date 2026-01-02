@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "tag": "DESENVOLVEDOR FULL STACK",
+    "name": "marco dev",
+    "subtitle": "Criando experiências digitais onde",
+    "subtitleHighlight": "design encontra código",
+    "experience": "2 anos de experiência",
+    "cardLocation": "Localização",
+    "cardLocationValue": "BR",
+    "cardExperience": "Experiência",
+    "cardExperienceValue": "+2 anos",
+    "cardFocus": "Foco",
+    "cardFocusValue": "Full Stack"
+  },
+  "roles": {
+    "fullstack": "Full Stack Dev",
+    "architecture": "Arquitetura",
+    "design": "UI/UX Design",
+    "innovation": "Inovação"
+  },
+  "about": {
+    "title": "Sobre",
+    "p1": "Desenvolvedor Full Stack com experiência em criar",
+    "p1Highlight": "aplicações web modernas e escaláveis",
+    "p1End": ". Participo ativamente de todas as etapas do desenvolvimento, desde a modelagem até o deploy.",
+    "p2": "Trabalho principalmente com",
+    "p2Highlight": "JavaScript, TypeScript e Node.js",
+    "p2End": ", com experiência recente em projetos de grande escala no ecossistema Django.",
+    "p3": "Tenho sólida experiência em",
+    "p3Highlight": "UI/UX Design",
+    "p3End": ", com destaque para liderar o rebranding de uma das maiores plataformas de agendamento do Brasil.",
+    "highlightTitle": "Projeto Destaque",
+    "highlightText": "Idealizei e implementei um",
+    "highlightTextBold": "assistente virtual",
+    "highlightTextEnd": "para plataforma de aprendizado online, usando Django, HTMX, Alpine.js e Tailwind CSS. Uma experiência fluida e orientada ao usuário."
+  },
+  "skills": {
+    "title": "Stack"
+  },
+  "cta": {
+    "title": "Vamos criar algo",
+    "titleHighlight": "incrível",
+    "description": "Busco criar soluções bem estruturadas, escaláveis e fáceis de evoluir, equilibrando visão técnica e boas práticas de desenvolvimento.",
+    "projects": "Ver Projetos",
+    "contact": "Entrar em Contato"
+  },
+  "aboutPage": {
+    "greeting": "Oi! Sou o Marco.",
+    "intro": "Desenvolvedor Full Stack com 2 anos de experiência em desenvolvimento de software, atuando na construção de aplicações web modernas e escaláveis. Participo ativamente de todas as etapas do ciclo de desenvolvimento, desde a modelagem de dados e definição de arquitetura até o deploy e a manutenção, sempre com foco em qualidade, performance e experiência do usuário.",
+    "tech": "Trabalho principalmente com JavaScript, TypeScript, Node.js e Next.js, e no último ano atuei em projetos de grande escala no ecossistema Django, desenvolvendo soluções robustas no back-end e interfaces eficientes no front-end.",
+    "design": "Tenho experiência sólida em UI/UX Design, atuando desde a concepção visual e estrutural até a implementação em frameworks front-end. Uma das minhas principais conquistas nessa área foi liderar o rebranding de uma das maiores plataformas de agendamento do Brasil, unindo estratégia de design, usabilidade e execução técnica.",
+    "designEnthusiast": "Sou também entusiasta do design, sempre explorando a interseção entre estética, funcionalidade e inovação.",
+    "project": "Entre meus projetos de destaque está a idealização e implementação de um assistente virtual para uma plataforma de aprendizado online, desenvolvido com Django no back-end e HTMX, Alpine.js e Tailwind CSS no front-end, contribuindo para uma experiência mais fluida, interativa e orientada ao usuário.",
+    "approach": "Busco constantemente criar soluções bem estruturadas, escaláveis e fáceis de evoluir, equilibrando visão técnica, entendimento de negócio e boas práticas de desenvolvimento.",
+    "techTitle": "Principais Tecnologias",
+    "hardSkillsTitle": "Hard Skills",
+    "softSkillsTitle": "Soft Skills",
+    "workTitle": "Áreas de Atuação",
+    "workAreas": "Full Stack • Arquitetura de aplicações • UI/UX • Desenvolvimento web • Deploy e manutenção",
+    "hobbiesTitle": "Além do Código",
+    "hobbiesText": "Sou Diretor Criativo, Diretor Executivo, Produtor Cultural e DJ no",
+    "collectiveName": "coletivo abacaxi",
+    "hobbiesDescription": ", um coletivo multiartístico underground (o maior do norte de Minas Gerais) que tem como objetivo explorar a cultura urbana, o direito à cidade e criar ambiente seguro para as minorias marginalizadas.",
+    "softSkills": {
+      "timeManagement": "Gestão de Tempo e Prioridades",
+      "collaboration": "Colaboração e Trabalho em Equipe",
+      "adaptability": "Adaptabilidade",
+      "problemSolving": "Resolução de Problemas",
+      "empathy": "Empatia",
+      "autonomy": "Autonomia",
+      "communication": "Comunicação Clara"
+    }
+  },
+  "contactPage": {
+    "greeting": "Vamos conversar.",
+    "intro": "Estou sempre aberto para discutir novos projetos, ideias criativas ou oportunidades de fazer parte da sua visão. Sinta-se à vontade para entrar em contato através de qualquer um dos canais abaixo.",
+    "email": "Email",
+    "emailValue": "marcoantoniosz@outlook.com",
+    "phone": "Telefone",
+    "phoneValue": "+55 38 99876-1660",
+    "social": "Redes Sociais",
+    "availability": "Disponibilidade",
+    "availabilityStatus": "Disponível para projetos",
+    "availabilityText": "Atualmente aberto para trabalhos freelance e oportunidades full-time.",
+    "response": "Tempo de Resposta",
+    "responseText": "Costumo responder em até 24-48 horas.",
+    "location": "Localizado em",
+    "locationValue": "Minas Gerais, Brasil",
+    "sendMessage": "Enviar Mensagem",
+    "formName": "Nome",
+    "formEmail": "Email",
+    "formMessage": "Mensagem",
+    "formSend": "Enviar Mensagem"
+  }
+}

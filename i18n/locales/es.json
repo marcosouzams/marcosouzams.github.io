@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "tag": "DESARROLLADOR FULL STACK",
+    "name": "marco dev",
+    "subtitle": "Creando experiencias digitales donde",
+    "subtitleHighlight": "el diseño se encuentra con el código",
+    "experience": "2 años de experiencia",
+    "cardLocation": "Ubicación",
+    "cardLocationValue": "BR",
+    "cardExperience": "Experiencia",
+    "cardExperienceValue": "+2 años",
+    "cardFocus": "Enfoque",
+    "cardFocusValue": "Full Stack"
+  },
+  "roles": {
+    "fullstack": "Full Stack Dev",
+    "architecture": "Arquitectura",
+    "design": "Diseño UI/UX",
+    "innovation": "Innovación"
+  },
+  "about": {
+    "title": "Acerca de",
+    "p1": "Desarrollador Full Stack con experiencia en crear",
+    "p1Highlight": "aplicaciones web modernas y escalables",
+    "p1End": ". Participo activamente en todas las etapas del desarrollo, desde el modelado hasta la implementación.",
+    "p2": "Trabajo principalmente con",
+    "p2Highlight": "JavaScript, TypeScript y Node.js",
+    "p2End": ", con experiencia reciente en proyectos a gran escala en el ecosistema Django.",
+    "p3": "Tengo sólida experiencia en",
+    "p3Highlight": "Diseño UI/UX",
+    "p3End": ", destacando por liderar el rebranding de una de las mayores plataformas de agendamiento de Brasil.",
+    "highlightTitle": "Proyecto Destacado",
+    "highlightText": "Diseñé e implementé un",
+    "highlightTextBold": "asistente virtual",
+    "highlightTextEnd": "para plataforma de aprendizaje en línea, usando Django, HTMX, Alpine.js y Tailwind CSS. Una experiencia fluida y orientada al usuario."
+  },
+  "skills": {
+    "title": "Stack"
+  },
+  "cta": {
+    "title": "Creemos algo",
+    "titleHighlight": "increíble",
+    "description": "Busco crear soluciones bien estructuradas, escalables y fáciles de evolucionar, equilibrando visión técnica y mejores prácticas de desarrollo.",
+    "projects": "Ver Proyectos",
+    "contact": "Contactar"
+  },
+  "aboutPage": {
+    "greeting": "¡Hola! Soy Marco.",
+    "intro": "Desarrollador Full Stack con 2 años de experiencia en desarrollo de software, trabajando en la construcción de aplicaciones web modernas y escalables. Participo activamente en todas las etapas del ciclo de desarrollo, desde el modelado de datos y la definición de arquitectura hasta el despliegue y el mantenimiento, siempre enfocado en calidad, rendimiento y experiencia del usuario.",
+    "tech": "Trabajo principalmente con JavaScript, TypeScript, Node.js y Next.js, y en el último año trabajé en proyectos a gran escala en el ecosistema Django, desarrollando soluciones robustas en el back-end e interfaces eficientes en el front-end.",
+    "design": "Tengo experiencia sólida en Diseño UI/UX, trabajando desde la concepción visual y estructural hasta la implementación en frameworks front-end. Uno de mis principales logros en esta área fue liderar el rebranding de una de las mayores plataformas de agendamiento de Brasil, combinando estrategia de diseño, usabilidad y ejecución técnica.",
+    "designEnthusiast": "También soy entusiasta del diseño, siempre explorando la intersección entre estética, funcionalidad e innovación.",
+    "project": "Entre mis proyectos destacados está la idealización e implementación de un asistente virtual para una plataforma de aprendizaje en línea, desarrollado con Django en el back-end y HTMX, Alpine.js y Tailwind CSS en el front-end, contribuyendo a una experiencia más fluida, interactiva y orientada al usuario.",
+    "approach": "Busco constantemente crear soluciones bien estructuradas, escalables y fáciles de evolucionar, equilibrando visión técnica, comprensión del negocio y mejores prácticas de desarrollo.",
+    "techTitle": "Principales Tecnologías",
+    "hardSkillsTitle": "Hard Skills",
+    "softSkillsTitle": "Soft Skills",
+    "workTitle": "Áreas de Actuación",
+    "workAreas": "Full Stack • Arquitectura de aplicaciones • UI/UX • Desarrollo web • Deploy y mantenimiento",
+    "hobbiesTitle": "Más Allá del Código",
+    "hobbiesText": "Soy Director Creativo, Director Ejecutivo, Productor Cultural y DJ en",
+    "collectiveName": "coletivo abacaxi",
+    "hobbiesDescription": ", un colectivo multiartístico underground (el más grande del norte de Minas Gerais) que tiene como objetivo explorar la cultura urbana, el derecho a la ciudad y crear un ambiente seguro para las minorías marginadas.",
+    "softSkills": {
+      "timeManagement": "Gestión de Tiempo y Prioridades",
+      "collaboration": "Colaboración y Trabajo en Equipo",
+      "adaptability": "Adaptabilidad",
+      "problemSolving": "Resolución de Problemas",
+      "empathy": "Empatía",
+      "autonomy": "Autonomía",
+      "communication": "Comunicación Clara"
+    }
+  },
+  "contactPage": {
+    "greeting": "Hablemos.",
+    "intro": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tu visión. No dudes en contactarme a través de cualquiera de los canales a continuación.",
+    "email": "Email",
+    "emailValue": "marcoantoniosz@outlook.com",
+    "phone": "Teléfono",
+    "phoneValue": "+55 38 99876-1660",
+    "social": "Redes Sociales",
+    "availability": "Disponibilidad",
+    "availabilityStatus": "Disponible para proyectos",
+    "availabilityText": "Actualmente abierto a trabajos freelance y oportunidades full-time.",
+    "response": "Tiempo de Respuesta",
+    "responseText": "Suelo responder en 24-48 horas.",
+    "location": "Ubicado en",
+    "locationValue": "Minas Gerais, Brasil",
+    "sendMessage": "Enviar Mensaje",
+    "formName": "Nombre",
+    "formEmail": "Email",
+    "formMessage": "Mensaje",
+    "formSend": "Enviar Mensaje"
+  }
+}
